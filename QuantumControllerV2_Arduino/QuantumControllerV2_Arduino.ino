@@ -9,6 +9,5 @@ void loop() {
 
 
 //TODO
-//[] perlin fucking colors hue gap issues
+//[] perlin colors hue gap issues
 //[] fade speed wrong direction (x/10 solve)
-//fuck fedos
